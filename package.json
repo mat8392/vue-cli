@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "vue": "^2.6.6",
+    "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
@@ -40,7 +41,7 @@
       "parser": "babel-eslint"
     }
   },
-  "prettier":{
+  "prettier": {
     "tabWidth": 4,
     "singleQuote": true
   },
